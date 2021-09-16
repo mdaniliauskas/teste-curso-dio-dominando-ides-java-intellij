@@ -10,11 +10,6 @@ public class PrimeiroPrograma {
         Livro livro1 = new Livro("Harry Potter", 600);
 
         System.out.println(livro1);
-
-//        int a = 7;
-//        int b = 3;
-//        System.out.println("Hello World! " + (a+b));
-
     }
 
     static class Livro {
@@ -50,7 +45,4 @@ public class PrimeiroPrograma {
                     '}';
         }
     }
-
-
-
 }
